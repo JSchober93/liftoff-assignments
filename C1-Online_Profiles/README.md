@@ -13,4 +13,4 @@ https://github.com/JSchober93
 https://www.linkedin.com/in/jonathan-schobernd-633925151/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://github.com/JSchober93/liftoff-assignments/blob/master/C1-Online_Profiles/Jonathan%20Schobernd.pdf
